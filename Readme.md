@@ -11,12 +11,6 @@ npm install # install dependencies
 ```
 
 
-### 2. Run the project
-
-```bash
-npm run dev # run the project
-```
-
 that's it!
 
 Happy coding!
